@@ -1,0 +1,771 @@
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\Master_Data.pdb
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Data.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Images.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ShockwaveFlashObjects.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\stdole.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Data.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master Data.vbprojAssemblyReference.cache
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Form1.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_Employee.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InputStock.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvBarcodePrint.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvList.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvAtt.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Resources.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.XtraReport1.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.XtraReport2.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_BillPrintPreview.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcode.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_Opname.resources
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.GenerateResource.cache
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.CoreCompileInputs.cache
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.CopyComplete
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.pdb
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice.resources
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\Master_Data.dll.config
+C:\[Project]\SA\Master Data\Master Data\bin\Debug\Master_Data.dll
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.dll.licenses
+C:\[Project]\SA\Master Data\Master Data\obj\Debug\Master_Data.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\Master_Data.pdb
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\Master_Data.exe
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\Master_Data.exe.config
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Data.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Images.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Data.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master Data.vbprojAssemblyReference.cache
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Form1.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_Employee.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InputStock.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvBarcodePrint.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvList.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvAtt.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Resources.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.XtraReport1.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.XtraReport2.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_BillPrintPreview.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice13.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcode.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.Rpt_Opname.resources
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.GenerateResource.cache
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.exe.licenses
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.CoreCompileInputs.cache
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master Data.vbproj.CopyComplete
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.exe
+C:\[SAK]\SA\Master Data\Master Data\obj\Debug\Master_Data.pdb
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Form1.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_Core.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_Employee.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_InputStock.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvBarcodePrint.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvList.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvAtt.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Resources.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.XtraReport1.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.XtraReport2.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_BillPrintPreview.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice13.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcode.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_Opname.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.Rpt_PriceByKeyword.resources
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master Data.vbproj.GenerateResource.cache
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.exe.licenses
+C:\[SAK]\Master Data\Master Data\bin\Debug\Master_Data.exe.config
+C:\[SAK]\Master Data\Master Data\bin\Debug\Master_Data.exe
+C:\[SAK]\Master Data\Master Data\bin\Debug\Master_Data.pdb
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Data.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Images.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Data.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master Data.vbprojAssemblyReference.cache
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master Data.vbproj.CoreCompileInputs.cache
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master Data.vbproj.CopyComplete
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.exe
+C:\[SAK]\Master Data\Master Data\obj\Debug\Master_Data.pdb
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\Master_Data.exe.config
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\Master_Data.exe
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\Master_Data.pdb
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.CodeParser.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Data.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Office.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Images.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Office.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Xpo.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Form1.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_Core.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_Customer.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_Employee.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_InputStock.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvBarcodePrint.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvList.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Frm_InvAtt.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Resources.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.XtraReport1.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.XtraReport2.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_BillPrintPreview.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice13.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcodePrice.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_LabelBarcode.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_Opname.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.Rpt_PriceByKeyword.resources
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master Data.vbproj.GenerateResource.cache
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.exe.licenses
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master Data.vbproj.CoreCompileInputs.cache
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master Data.vbproj.CopyComplete
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.exe
+D:\Project\SAK VB\Master Data\Master Data\obj\Debug\Master_Data.pdb

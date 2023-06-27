@@ -1,0 +1,14 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseFont">true</property>
+    </property>
+    <property name="Font">Calibri, 11pt, style=Bold</property>
+  </property>
+  <property name="Row" iskey="true" value="Row">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseFont">true</property>
+    </property>
+    <property name="Font">Calibri, 10pt</property>
+  </property>
+</XtraSerializer>
